@@ -57,7 +57,7 @@ a {
   z-index: 1;
 }
 
-.hero-swap {
+.hero-wrap {
   display: flex;
   flex-direction: column;
   position: relative;
