@@ -101,7 +101,6 @@ a {
 }
 
 /* Hero */
-
 .hero-wrap {
   display: flex;
   flex-direction: column;
@@ -110,7 +109,6 @@ a {
   background: #e6f0ff;
   height: calc(100vh - 90px);
 }
-
 .hero-wrap .info {
   width: 51%;
 }
@@ -140,12 +138,12 @@ a {
   color: #5a6473;
 }
 
-.hero .hero-cta {
+.hero-wrap .hero-cta {
   min-width: 17rem;
   margin-top: 4rem;
 }
 
-.hero .info-img {
+.hero-wrap .info-img {
   position: absolute;
   bottom: 0;
 
